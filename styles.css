@@ -77,7 +77,7 @@ h1 {
     border: none;
     border-bottom: 3px solid #f2f2f2;
     outline: none;
-    visibility: ;
+    visibility: hidden;
 }
 #hamburger::before {
     content:"";
@@ -507,7 +507,7 @@ blockquote cite span {
     clear: both;
     position: relative;
     left: 80%;
-    top: 5px;
+    top: 15px;
     background-color: #da4453;
     outline: none;
     border: none;
